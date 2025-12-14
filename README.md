@@ -22,7 +22,7 @@ We analyze performance using:
 
 - **Frames Per Second (FPS)**  
 - **Total Vehicle Detections**  
-- **Per-Frame Detection Trends**  
+- **Per Frame Detection Trends**  
 - **Processing Time per Model**
 
 All models are tested on the same real-world intersection footage using pretrained COCO weights.
